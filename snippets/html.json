@@ -1,0 +1,9 @@
+{
+  "liffsdk": {
+    "prefix": "liffsdk",
+    "body": [
+      "<script charset=\"utf-8\" src=\"https://static.line-scdn.net/liff/edge/2/sdk.js\"></script>"
+    ],
+    "description": "Put LIFF v2 SDK to the beginning of the BODY tag"
+  }
+}
